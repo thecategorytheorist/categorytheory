@@ -1,0 +1,12 @@
+baseURL = 'https://thecategorytheorist.gitlab.io/thecategorytheorist/'
+languageCode = 'en-us'
+title = 'The Category Theorist'
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+theme = "archie"
+
+
+
+[Params]
+  darkmode = true
