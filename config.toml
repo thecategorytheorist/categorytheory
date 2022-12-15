@@ -1,4 +1,4 @@
-baseURL = 'https://thecategorytheorist.gitlab.io/thecategorytheorist/'
+baseURL = 'https://thecategorytheorist.gitlab.io/categorytheory/'
 languageCode = 'en-us'
 title = 'The Category Theorist'
 paginate = 3
