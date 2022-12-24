@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
   mode="auto"
 
 [[menu.main]]
-name = "All posts"
+name = "Posts"
 url = "/posts"
 weight = 2
 
@@ -23,8 +23,3 @@ weight = 2
 name = "Stories"
 url = "/stories"
 weight = 3
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
