@@ -5,8 +5,22 @@ paginate = 3
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "archie"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 
 
 [Params]
-  darkmode = true
+  mode="auto"
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4

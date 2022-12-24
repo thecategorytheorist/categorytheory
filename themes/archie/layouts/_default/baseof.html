@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
+    <head><meta content="{{ if .Params.hidden }}noindex{{ else }}index{{ end }}, follow" name="robots">
+    </head>
     {{- partial "header.html" . -}}
+
     <body>
         <div class="content">
         {{- partial "head.html" . -}}
