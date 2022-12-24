@@ -4,7 +4,9 @@ date: 2022-12-24T23:29:10+05:30
 # draft: True
 description: Failed attempt ONE.
 tags: [story]
-hidden: True
+
+# url: /blog/new-url/
+
 ---
 
 ## Abstract
